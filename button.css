@@ -1,0 +1,32 @@
+#butt-1 {
+    color: darkturquoise;
+    background-color:whitesmoke;
+    padding: 5px 44px;
+    margin:5px;
+    text-align: center;
+    border-radius: 100px;
+    border-color: darkturquoise ;
+    font-weight: bold;
+    border: 2px solid ;
+        }
+
+#butt-2 {
+    color: white;
+    border-radius: 50%;
+    border-color: darkturquoise;
+    background-color: darkturquoise;
+    margin: 5px;
+    padding:10px 15px;
+    font-size: x-large;
+    border: solid
+        }
+
+#butt-3{
+    color:white;
+    background-color: dodgerblue;
+    border-color:black ;
+    padding: 5px 30px;
+    font-size: medium;
+    margin: 5px;
+    box-shadow: 6px 5px 6px black;
+}
